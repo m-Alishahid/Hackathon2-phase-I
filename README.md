@@ -32,7 +32,21 @@ A simple, efficient command-line todo application built with Python. Manage your
 
 ### Running the Application
 
+#### On Windows (PowerShell)
+```powershell
+# Navigate to the project directory
+cd todo-app
+
+# Run the application
+python main.py
+```
+
+#### On Linux/macOS (Bash)
 ```bash
+# Navigate to the project directory
+cd todo-app
+
+# Run the application
 python main.py
 ```
 
